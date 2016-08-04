@@ -1,0 +1,36 @@
+_repo: The-Civilization-of-Illiteracy_2481
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 2481/2481-h/images/cover.jpg
+  rights: Copyrighted. Read the copyright notice inside this book for details.
+  rights_url: ''
+creator:
+  author:
+    agent_name: Nadin, Mihai
+    birthdate: 1938
+    gutenberg_agent_id: '930'
+    url: http://www.gutenberg.org/2009/agents/930
+    wikipedia: http://en.wikipedia.org/wiki/Mihai_Nadin
+description: Copyright 1997
+gutenberg_issued: '2001-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2481'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Social history'
+- !lcsh 'Sociolinguistics'
+- !lcsh 'Technology -- Social aspects'
+- !lcsh 'Literacy -- Social aspects'
+- !lcsh 'Technology and civilization'
+- !lcsh 'Computers and literacy'
+- !lcc 'LC'
+- !lcsh 'Information society'
+- !lcsh 'Oral history'
+- GITenberg
+title: The Civilization of Illiteracy
+url: http://www.gutenberg.org/ebooks/2481
