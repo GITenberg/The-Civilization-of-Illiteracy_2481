@@ -1,10 +1,8 @@
 _repo: The-Civilization-of-Illiteracy_2481
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 2481/2481-h/images/cover.jpg
-  rights: Copyrighted. Read the copyright notice inside this book for details.
-  rights_url: ''
+  image_path: cover.jpg
 creator:
   author:
     agent_name: Nadin, Mihai
@@ -13,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/930
     wikipedia: http://en.wikipedia.org/wiki/Mihai_Nadin
 description: Copyright 1997
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2481#The-Civilization-of-Illiteracy
 gutenberg_issued: '2001-01-01'
 gutenberg_type: Text
 identifiers:
